@@ -4,5 +4,7 @@ module.exports = [
   require('./dagestan'),
   require('./coin'),
   require('./affirmative'),
-  require('./default')
+  require('./default'),
+  require('./hello'),
+  require('./daaaaa'),
 ];
