@@ -13,4 +13,5 @@ module.exports = [
   require('./localmems/5'),
   require('./localmems/Night'),
   require('./localmems/rudeness'),
+  require('./localmems/tiredness')
 ];
